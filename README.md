@@ -8,8 +8,8 @@ Done with a group of four members, our goal was to implement and simulate differ
 - Implements DFS, BFS, Dijkstra, and A*
 - Interactive visualization
 - Custom grid sizes
-- Step-by-step animation of search process
-- Counter for number of visits and actual steps.
+- Step-by-step animation of search algorithm
+- Counter for number of visits and actual steps
 
 ## Tech Stack
 - Frontend/UI: Java Swing
