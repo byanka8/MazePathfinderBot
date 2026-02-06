@@ -30,6 +30,10 @@ cd MazePathfinderBot
 - You can choose another algorithm on the same maze. You can also modify the current maze by clicking a specific cell.
 
 ## Results / Demo
-. 
+
+
+https://github.com/user-attachments/assets/fc4cee0f-b10c-4605-984e-87339a51b37f
+
+
 
 
